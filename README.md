@@ -25,7 +25,7 @@ Follow these steps to set up the project in your local environment:
 4. Run the app on a simulator or device
 
 	    npx react-native run-ios
-o
+		o
 	    npx react-native run-android
 
 
