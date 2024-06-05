@@ -18,15 +18,11 @@ Follow these steps to set up the project in your local environment:
 
    	cd New_Taks
 
-3. Start the development server
+3. Run the app on a simulator or device
 
-	    npx react-native start
-
-4. Run the app on a simulator or device
-
-	    npx react-native run-ios
+	    react-native run-ios
 		o
-	    npx react-native run-android
+	    react-native run-android
 
 
 ### Authors ✍🏻
